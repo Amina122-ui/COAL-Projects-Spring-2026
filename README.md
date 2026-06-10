@@ -51,7 +51,7 @@ coal-projects-spring2026/
 
 ---
 
-## 🚀 How to Submit Your Project
+## How to Submit Your Project
 
 ### Step 1 — Fork this repository
 
